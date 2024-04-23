@@ -1,0 +1,17 @@
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.csproj.AssemblyReference.cache
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\App.g.cs
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO_Content.g.cs
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO_MarkupCompile.cache
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\bin\Debug\AULA_JOAO.exe.config
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\bin\Debug\AULA_JOAO.exe
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\bin\Debug\AULA_JOAO.pdb
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\MainWindow.g.cs
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO_MarkupCompile.lref
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\MainWindow.baml
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.g.resources
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.Properties.Resources.resources
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.csproj.GenerateResource.cache
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.csproj.CoreCompileInputs.cache
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.exe
+C:\Users\2022102020060\source\repos\AULA_JOAO\AULA_JOAO\obj\Debug\AULA_JOAO.pdb

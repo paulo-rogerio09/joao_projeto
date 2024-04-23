@@ -1,0 +1,49 @@
+﻿<Window x:Class="AULA_JOAO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AULA_JOAO"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="1" Background='#7E82FF'/>
+        <Border Grid.Column="0" Background='#EEF0F9'/>
+        
+        <StackPanel Grid.Column="1" Margin="20">
+            <TextBlock Text="" FontSize="24" HorizontalAlignment="Center"/>
+            <Label Content="Aluno" FontSize="24"/>
+            <TextBox FontSize="24" Padding="5"/>
+            <Label Content="senha" FontSize="24" />
+            <TextBox FontSize="24" Padding="5"/>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    
+
+                </Grid.ColumnDefinitions>
+                <Button Grid.Column="0" Content="entrar" Padding="8"/>
+                <Button Grid.Column="1" Content="sair" Padding="8"/>
+
+            </Grid>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Margin="20">
+            <Image Source="/imagem/school.png" Width="180" Height="171"/>
+            <Label Content="IFRO TEMATICO" FontSize="24" Width="178"/>
+
+        </StackPanel>
+        
+       
+
+    </Grid>
+
+</Window>
